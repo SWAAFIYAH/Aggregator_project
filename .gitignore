@@ -1,0 +1,22 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environments
+env/
+venv/
+
+# Ignore large data files
+*.csv
+*.xlsx
+
+# Ignore IDE settings
+.vscode/
+.idea/
